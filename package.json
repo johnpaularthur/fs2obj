@@ -1,17 +1,17 @@
 {
   "name": "fs2obj",
-  "version": "0.3.0",
-  "description": "Get the directory tree as recursive object, including absolute and relative paths",
+  "version": "0.4.0",
+  "description": "Get the directory tree as recursive object, including absolute and relative paths, sorted case insensitive and folders first.",
   "main": "./lib/",
   "author": {
-    "name": "tobilg"
+    "name": "tobilg,johnpaularthur"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tobilg/fs2obj.git"
+    "url": "https://github.com/johnpaularthur/fs2obj.git"
   },
   "bugs": {
-    "url": "https://github.com/tobilg/fs2obj/issues"
+    "url": "https://github.com/johnpaularthur/fs2obj/issues"
   },
   "dependencies": {
     "lodash": "4.13.1"
@@ -46,14 +46,14 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/tobilg/fs2obj/raw/master/License"
+      "url": "http://github.com/johnpaularthur/fs2obj/raw/master/License"
     }
   ],
-  "homepage": "https://github.com/tobilg/fs2obj",
+  "homepage": "https://github.com/johnpaularthur/fs2obj",
   "maintainers": [
     {
-      "name": "tobilg",
-      "email": "fb.tools.github@gmail.com"
+      "name": "johnpaularthur",
+      "email": "john.paul.arthur@gmail.com"
     }
   ]
 }

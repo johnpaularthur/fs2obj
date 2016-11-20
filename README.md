@@ -2,8 +2,7 @@
 
 ## Current status
 
-[![Build Status](https://secure.travis-ci.org/tobilg/fs2obj.png?branch=master)](http://travis-ci.org/tobilg/fs2obj)
-[![Dependency Status](https://david-dm.org/tobilg/fs2obj.png)](https://david-dm.org/tobilg/fs2obj)
+Note, this is a fork from https://github.com/tobilg/fs2obj.  This fork returns a tree sorted as you would expect a filebrowser tree to be sorted (case insensitive, folders first).
 
 ## Basic usage
 
